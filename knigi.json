@@ -1,0 +1,12 @@
+{
+  "Harry Potter": {
+    "Avtor": "J.K Rowling",
+    "Zhanr": "Mistery",
+    "kolichina na knigi": 10
+  },
+  "Lord of the rings": {
+    "Avtor": "Tolkien",
+    "Zhanr": "Mistery",
+    "kolichina na knigi": 10
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "mleko": {
+    "kolichina vo magacin": 7,
+    "poedinechna cena": 15,
+    "vkupna cena": 105
+  },
+  "kashkaval": {
+    "kolichina vo magacin": 10,
+    "poedinechna cena": 75,
+    "vkupna cena": 750
+  },
+  "Dorina": {
+    "kolichina vo magacin": 50,
+    "poedinechna cena": 45,
+    "vkupna cena": 2250
+  },
+  "Milka": {
+    "kolichina vo magacin": 50,
+    "poedinechna cena": 55,
+    "vkupna cena": 2750
+  }
+}
